@@ -2,11 +2,11 @@
 
 # Quick Links
 
-Repository          https://github.com/coding-to-music/sanity-next-js-e-commerce
-Your site           https://sanity-next-js-e-commerce-lovat.vercel.app
-Sanity Studio       https://sanity-next-js-e-commerce-lovat.vercel.app/studio
-Vercel project      https://vercel.com/coding-to-music/sanity-next-js-e-commerce
-Vercel deployment   https://vercel.com/coding-to-music/sanity-next-js-e-commerce/HzPcJUwJvYUPdRQYBr4zpGXHMbRG
+- Repository          https://github.com/coding-to-music/sanity-next-js-e-commerce
+- Your site           https://sanity-next-js-e-commerce-lovat.vercel.app
+- Sanity Studio       https://sanity-next-js-e-commerce-lovat.vercel.app/studio
+- Vercel project      https://vercel.com/coding-to-music/sanity-next-js-e-commerce
+- Vercel deployment   https://vercel.com/coding-to-music/sanity-next-js-e-commerce/HzPcJUwJvYUPdRQYBr4zpGXHMbRG
 
 # Overview
 This is an e-commerce *starter* that features a studio with a simple Next.js frontend.
